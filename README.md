@@ -1,5 +1,2 @@
 # bookbot
-1st project
-
-
-This is my first back-end project. 
+BookBot is my first project!
